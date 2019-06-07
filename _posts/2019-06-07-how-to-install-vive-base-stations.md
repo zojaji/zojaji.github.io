@@ -15,7 +15,7 @@ Installing the _base stations_ of HTC VIVE is the first step to run any virtual 
 * 2 base stations
 * 2 base stations power adapters
 * 2 mount brackets
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300-300.jpg){: .align-right}
 1.  Plan your play area.
     * Room-scale
       * Min. 2m * 1.5m
