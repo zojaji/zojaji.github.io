@@ -2,7 +2,7 @@
 title: "How to install HTC VIVE Pro base stations"
 date: 2019-06-07T17:00:00-05:00
 categories:
-  - How to
+  - Howtos
 tags:
   - HTC VIVE Pro
   - base station
