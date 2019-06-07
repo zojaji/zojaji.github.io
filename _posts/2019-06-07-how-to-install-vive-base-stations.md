@@ -4,9 +4,9 @@ date: 2019-06-07T17:00:00-05:00
 categories:
   - how-to
 tags:
-  - HTC-VIVE-Pro
-  - base-station
-  - virtual-reality
+  - HTC VIVE Pro
+  - base station
+  - virtual reality
   - setup
 ---
 
