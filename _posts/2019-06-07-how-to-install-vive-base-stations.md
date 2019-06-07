@@ -10,12 +10,12 @@ tags:
   - VR
   - setup
 ---
-In this post 
+In this post, we will take a look at  
 **Requirements:**
 * 2 base stations
 * 2 base stations power adapters
 * 2 mount brackets
-
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation.jpg){: .align-right}
 1.  Plan your play area.
     * Room-scale
       * Min. 2m * 1.5m
