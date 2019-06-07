@@ -2,7 +2,7 @@
 title: "How to install HTC VIVE Pro base stations"
 date: 2019-06-07T17:00:00-05:00
 categories:
-  - how-to
+  - How to
 tags:
   - HTC VIVE Pro
   - base station
@@ -10,7 +10,7 @@ tags:
   - VR
   - setup
 ---
-
+In this post 
 **Requirements:**
 
 2 base stations<br />
