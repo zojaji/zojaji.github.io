@@ -1,3 +1,3 @@
-**Sahba Zojaji personal web-page.**
+**Sahba Zojaji** personal web-page.
 
 https://zojaji.github.io
