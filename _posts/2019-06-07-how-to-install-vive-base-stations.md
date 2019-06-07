@@ -11,7 +11,8 @@ tags:
   - VR
   - setup
 ---
-Installing the _base stations_ of HTC VIVE is the first step to run any virtual reality (VR) application. This post will give you some straightforward guidelines to install them.  
+Installing the _base stations_ of HTC VIVE is the first step to run any virtual reality (VR) application. This post will give you some straightforward guidelines to install them.
+{: style="text-align: justify;"}
 # Requirements
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300-300.jpg){: .align-right}
 Before installing the base stations, we need the following materials.  
