@@ -1,5 +1,6 @@
 ---
 title: "How to Setup HTC VIVE Pro"
+classes: wide
 date: 2019-06-07T17:00:00-05:00
 categories:
   - Howtos
