@@ -1,5 +1,5 @@
 ---
-title: "How to install HTC VIVE Pro base stations"
+title: "How to Setup HTC VIVE Pro"
 date: 2019-06-07T17:00:00-05:00
 categories:
   - Howtos
@@ -10,14 +10,16 @@ tags:
   - VR
   - setup
 ---
-Installing the _base stations_ of HTC VIVE is the first step to run any virtual reality (VR) experiment. This post will give you some straightforward guidelines to install them.  
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300-300.jpg){: .align-right}
+Installing the _base stations_ of HTC VIVE is the first step to run any virtual reality (VR) application. This post will give you some straightforward guidelines to install them.  
 # Requirements
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300-300.jpg){: .align-right}
 Before installing the base stations, we need the following materials.  
 * 2 base stations
 * 2 base stations power adapters
 * 2 mount brackets
-1.  Plan your play area.
+
+# The play area
+
     * Room-scale
       * Min. 2m * 1.5m
       * Max. 6m * 6m
