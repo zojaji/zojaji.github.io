@@ -10,7 +10,7 @@ tags:
   - VR
   - setup
 ---
-In this post, we will take a look at  
+Installing the _base stations_ of HTC VIVE is the first step to run any virtual reality (VR) experiment. This post will give you some straightforward guidelines to install them.  
 **Requirements:**
 * 2 base stations
 * 2 base stations power adapters
