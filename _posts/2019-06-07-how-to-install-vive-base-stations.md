@@ -7,6 +7,7 @@ tags:
   - HTC VIVE Pro
   - base station
   - virtual reality
+  - VR
   - setup
 ---
 
