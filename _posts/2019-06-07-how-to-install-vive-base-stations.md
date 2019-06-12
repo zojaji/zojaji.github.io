@@ -10,6 +10,7 @@ tags:
   - virtual reality
   - VR
   - setup
+  - hardware
 ---
 Immersing into the virtual world is exciting and mysterious. However, before experienceing the virtual world, you need to install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality hardware based on HTC-Vive-Pro. 
 # 1. Download & install ViveProSetup.exe
@@ -20,7 +21,7 @@ Installing the _base stations_ of HTC VIVE is the first step to run any virtual 
 {: style="text-align: justify;"}
 
 # Requirements
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300-300.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation.jpg){: .align-right}
 Before installing the base stations, we need the following materials.  
 * 2 base stations
 * 2 base stations power adapters
