@@ -31,7 +31,7 @@ Before installing the base stations, we need the following materials.
 * 2 mount brackets
 
 # The play area
-
+sdhfgsjhfgsjhfgsjhgfjsgfjsgfhjsfgsf
     * Room-scale
       * Min. 2m * 1.5m
       * Max. 6m * 6m
