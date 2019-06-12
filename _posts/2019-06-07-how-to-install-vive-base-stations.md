@@ -22,7 +22,7 @@ Installing the _base stations_ of HTC VIVE is the first step to run any virtual 
 {: style="text-align: justify;"}
 
 # Requirements
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-new.jpg){: .align-right; width: 200px;}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300.jpg){: .align-right}
 Before installing the base stations, we need the following materials.  
 * 2 base stations
 * 2 base stations power adapters
