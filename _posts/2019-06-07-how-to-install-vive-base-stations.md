@@ -32,8 +32,8 @@ Before installing the base stations, we need the following materials.
 
 # The play area
 Think and decide about your play area.
-    * Room-scale
-      * Min. 2m * 1.5m
-      * Max. 6m * 6m
-    * Standing/Seated
-      *  no minimum size requirement.
+  * Room-scale
+    * Min. 2m * 1.5m
+    * Max. 6m * 6m
+  * Standing/Seated
+    *  no minimum size requirement.
