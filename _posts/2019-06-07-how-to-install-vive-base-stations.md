@@ -33,7 +33,7 @@ Before installing the base stations, you need the following materials which you 
 ## The play area
 Think and decide about your play area. 
   * Room-scale: you can move within an area.
-    * Min. 2m * 1.5 m^2
+    * Min. 2m * 1.5 m^2 $$ E = mc^2 $$
     * Max. 6m * 6m
     The base stations should be installed on top of your head for acurate tracking.
   * Standing/Seated: you should only stand or sit down and play the game.
