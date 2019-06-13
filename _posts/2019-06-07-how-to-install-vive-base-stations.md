@@ -54,6 +54,6 @@ You can find the link box and its components (1 USB3 cable, 1 Display-port cable
   * Connect the power cable (L3) to the link box, and the adapter to a power outlet.
 
 # 4. Headset
-Now, it is time to bring your Vive headset. Just plug its cable into the link box and press the power button on the link box. Then, wait fot Windows to install the drivers.  
+Now, it is time to bring your HTC Vive headset. Just plug its cable into the link box and press the power button on the link box. Then, wait fot Windows to install the drivers.  
   
 
