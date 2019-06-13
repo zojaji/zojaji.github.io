@@ -38,12 +38,11 @@ Think and decide about your play area.
     * The base stations should be mounted at least 2 meters above your head in two opposite corners with an angle of 30 to 45 degrees down, for accurately tracking your play area. They should be placed no furthur than 5 meters apart.
     * Move all furnitures and other obstacles out of your play area.
   * Standing/Seated: you should only stand or sit down and play the game.
-    *  no minimum size requirement.
-    
+    *  no minimum size requirement.   
 ## The status light
 The status light of the base station shows:
-  * White { color: white } or green { color: green }: normal mode.
-  * Blue { color: blue } or blinking blue: waiting to stabilize (If it remains in this state, check if it is mounted securely or on a surface that's not prone to vibration).
+  * White or green: normal mode.
+  * Blue or blinking blue: waiting to stabilize (if it remains in this state, check if it is mounted securely or on a surface that's not prone to vibration).
   * Blinking red { color: red }: error.
     
 
