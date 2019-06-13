@@ -47,7 +47,7 @@ After installing the base stations and plugging them to a power outlet, you can 
   * Blinking red: when there is an error.
 
 # 3. Link box
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/linkbox-2-300.jpg){: .align-left}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/linkbox-2-300.jpg){: .align-right}
 You can find the link box and its components (1 USB3 cable, 1 Display-port cable, and a power adapter) in the HTC Vive Pro package. Follow these steps to connect the link box to your PC.
   * Connect one side of the USB3 cable (L1) to the link box, and the other side to a USB3 port of your PC.
   * Connect the Display-port cable (L2) to the link box, and to same graphics card that is connected to your monitor.
