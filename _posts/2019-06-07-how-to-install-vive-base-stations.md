@@ -41,7 +41,7 @@ Think and decide about your play area.
     *  no minimum size requirement.   
 
 ## The status light
-After installing the base stations and plugging them to the the power outlet, you can see a status light which shows:
+After installing the base stations and plugging them to a power outlet, you can find a status light on both base stations which shows:
   * White or green: in normal mode.
   * Blue or blinking blue: when waiting to stabilize (if it remains in this state, check if it is mounted securely or on a surface that's not prone to vibration).
   * Blinking red: when there is an error.
