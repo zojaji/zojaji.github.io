@@ -33,10 +33,10 @@ Before installing the base stations, you need the following materials which you 
 ## The play area
 Think and decide about your play area. 
   * Room-scale: you can move within an area.
-    * Minimum area: 2 * 1.5 $$ m^2 $$
-    * Maximum area: 6 * 6 $$ m^2 $$
-    
-    The base stations should be mounted at least 2 meters above your head in two opposite corners with an angle of 30 to 45 degrees, for accurately tracking your play area.  
+    * Minimum area: 2 m * 1.5 m
+    * Maximum area: 6 m * 6 m    
+    * The base stations should be mounted at least 2 meters above your head in two opposite corners with an angle of 30 to 45 degrees, for accurately tracking your play area. They should be placed no furthur than 5 meters apart.
+    * Move all furnitures and other obstacles out of your play area.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.
     
