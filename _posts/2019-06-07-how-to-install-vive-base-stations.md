@@ -39,6 +39,7 @@ Think and decide about your play area.
     * Move all furnitures and other obstacles out of your play area.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.   
+
 ## The status light
 The status light of the base station shows:
   * White or green: normal mode.
