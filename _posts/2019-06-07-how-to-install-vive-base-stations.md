@@ -44,5 +44,3 @@ The status light of the base station shows:
   * White or green: normal mode.
   * Blue or blinking blue: waiting to stabilize (if it remains in this state, check if it is mounted securely or on a surface that's not prone to vibration).
   * Blinking red: error.
-    
-
