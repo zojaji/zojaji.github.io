@@ -12,7 +12,7 @@ tags:
   - setup
   - hardware
 ---
-Immersing into the virtual world is exciting and mysterious. However, before diving in this fantastic world, you need to prepare your equipments and install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality (VR) hardware based on HTC-Vive-Pro. 
+Immersing into the virtual world is exciting and mysterious. However, before diving in this fantastic world, you need to prepare your equipment and install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality (VR) hardware based on HTC-Vive-Pro. 
 {: style="text-align: justify;"}
 # 1. Download & install ViveProSetup.exe
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/viveprosetup-300.png){: .align-left}
