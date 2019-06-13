@@ -35,8 +35,8 @@ Think and decide about your play area.
   * Room-scale: you can move within an area.
     * Minimum area: 2 m * 1.5 m
     * Maximum area: 6 m * 6 m    
-    * The base stations should be mounted at least 2 meters above your head in two opposite corners with an angle of 30 to 45 degrees down, for accurately tracking your play area. They should be placed no furthur than 5 meters apart.
-    * Move all furnitures and other obstacles out of your play area.
+    * The base stations should be mounted at least 2 meters above your head in two opposite corners with an angle of 30 to 45 degrees down, for accurately tracking your play area. They should be placed no further than 5 meters apart.
+    * Move all furniture and other obstacles out of your play area.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.   
 
@@ -49,11 +49,10 @@ After installing the base stations and plugging them to a power outlet, you can 
 # 3. Link box
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/linkbox-2-300.jpg){: .align-right}
 You can find the link box and its components (1 USB3 cable, 1 Display-port cable, and a power adapter) in the HTC Vive Pro package. Follow these steps to connect the link box to your PC.
-  * Connect one side of the USB3 cable (L1) to the link box, and the other side to a USB3 port of your PC.
-  * Connect the Display-port cable (L2) to the link box, and to same graphics card that is connected to your monitor.
-  * Connect the power cable (L3) to the link box, and the adapter to a power outlet.
+  * Connect one side of the USB3 cable (L1) to the link box and the other side to a USB3 port of your PC.
+  * Connect the Display-port cable (L2) to the link box and to the same graphics card that is connected to your monitor.
+  * Connect the power cable (L3) to the link box and the adapter to a power outlet.
 
 # 4. Headset
-Now, it is time to bring your HTC Vive headset. Just plug its cable into the link box and press the power button on the link box. Then, wait fot Windows to install the drivers.  
-  
+Now, it is time to bring your HTC Vive headset. Just plug its cable into the link box and press the power button on the link box. Then, wait for Windows to install the drivers.  
 
