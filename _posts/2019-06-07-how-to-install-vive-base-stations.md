@@ -36,7 +36,7 @@ Think and decide about your play area.
     * Minimum area: 2 * 1.5 $$ m^2 $$
     * Maximum area: 6 * 6 $$ m^2 $$
     
-    The base stations should be installed on top of your head for acurate tracking.
+    For acurate tracking, the base stations should be mounted at least 2 meters above your head in two opposite corners.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.
     
