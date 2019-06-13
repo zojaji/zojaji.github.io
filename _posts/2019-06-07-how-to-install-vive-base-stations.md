@@ -56,3 +56,7 @@ You can find the link box and its components (1 USB3 cable, 1 Display-port cable
 # 4. Headset
 Now, it is time to bring your HTC Vive headset. Just plug its cable into the link box and press the power button on the link box. Then, wait for Windows to install the drivers.  
 
+# 5. Controllers
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/controllers-2-300.jpg){: .align-left}
+You can find two wireless controllers and their power adapters in your HTC Vive package. Turn the controllers on by pressing and holding the system button until hearing a beep. Once the controllers are turned on their status light is blue for the first time. Then, you should pair them with the headset by just pressing and holding the System button and Menu button at them same time. The status light turns green when the controllers are paired.  
+Use the power adapters only when you need to charge the controllers.  
