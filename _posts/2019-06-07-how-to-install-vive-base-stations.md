@@ -25,15 +25,18 @@ Installing the _base stations_ of HTC Vive Pro is the second step to run any VR 
 
 ## Requirements
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation-300.jpg){: .align-right}
-Before installing the base stations, you need the following materials which you can find in the HTC Vive Pro package.  
+Before installing the base stations, you need the following materials which you can find them in the HTC Vive Pro package.  
 * 2 base stations
 * 2 base station power adapters
-* 2 mount brackets
+* 2 mounting brackets
 
 ## The play area
-Think and decide about your play area.
+Think and decide about your play area. 
   * Room-scale: you can move within an area.
     * Min. 2m * 1.5m
     * Max. 6m * 6m
+    The base stations should be installed on top of your head for acurate tracking.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.
+    
+
