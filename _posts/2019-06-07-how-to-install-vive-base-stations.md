@@ -6,11 +6,14 @@ categories:
   - Howtos
 tags:
   - HTC VIVE Pro
-  - base station
   - virtual reality
   - VR
   - setup
   - hardware
+  - base station
+  - link box
+  - headset
+  - controllers
 ---
 Immersing into the virtual world is exciting and mysterious. However, before diving in this fantastic world, you need to prepare your equipment and install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality (VR) hardware based on HTC-Vive-Pro. 
 {: style="text-align: justify;"}
