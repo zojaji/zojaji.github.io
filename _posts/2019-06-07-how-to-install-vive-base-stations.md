@@ -16,7 +16,7 @@ Immersing into the virtual world is exciting and mysterious. However, before div
 {: style="text-align: justify;"}
 # 1. Download & install ViveProSetup.exe
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/viveprosetup-300.png){: .align-left}
-First, you should download _ViveProSetup.exe_ software from [here](https://www.vive.com/setup/vive-pro/){: target="_blank"} and install it on your system. You need to create an account in order to login to STEAM.   
+First, you should download _ViveProSetup.exe_ software from [here](https://www.vive.com/setup/vive-pro/){: target="_blank"} and install it on your PC. You need to create an account in order to login to STEAM.   
 {: style="text-align: justify;"}
 <br />
 # 2. Base stations
@@ -47,5 +47,11 @@ After installing the base stations and plugging them to a power outlet, you can 
   * Blinking red: when there is an error.
 
 # 3. Link box
-You can find the link box and its components (1 USB 3.0 cable, 1 display-port cable, and a power adapter) in the HTC Vive Pro package.
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/linkbox-1-300.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/linkbox-2-300.jpg){: .align-left}
+You can find the link box and its components (1 USB3 cable, 1 Display-port cable, and a power adapter) in the HTC Vive Pro package. Follow these steps to connect the link box to your PC.
+  * Connect one side of the USB3 cable (L1) to the link box, and the other side to a USB3 port of your PC.
+  * Connect the Display-port cable (L2) to the link box, and to same graphics card that is connected to your monitor.
+  * Connect the power cable (L3) to the link box, and the adapter to a power outlet.
+  
+  
+
