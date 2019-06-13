@@ -61,5 +61,5 @@ Now, it is time to bring your HTC Vive headset. Just plug its cable into the lin
 
 # 5. Controllers
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/controllers-2-300.jpg){: .align-left}
-The next step is to install the controllers. You can find two wireless controllers and their power adapters in your HTC Vive package. Turn the controllers on by pressing and holding the _system button_ until hearing a beep. Once the controllers are turned on, their status light is blue for the first time. Then, you should pair them with the headset by just pressing and holding the _system button_ and _menu button_ at the same time. The status light turns green when the controllers are paired.  
-Use the power adapters only when you need to charge the controllers.  
+The final step is to install the controllers. You can find two wireless controllers and their power adapters in your HTC Vive package. Turn the controllers on by pressing and holding the _system button_ until hearing a beep. Once the controllers are turned on, their status light is blue for the first time. Then, you should pair them with the headset by just pressing and holding the _system button_ and _menu button_ at the same time. The status light turns green when the controllers are paired.  
+Use the power adapters only when you need to charge the controllers.
