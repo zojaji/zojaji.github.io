@@ -45,3 +45,5 @@ After installing the base stations and plugging them to the the power outlet, yo
   * White or green: in normal mode.
   * Blue or blinking blue: when waiting to stabilize (if it remains in this state, check if it is mounted securely or on a surface that's not prone to vibration).
   * Blinking red: when there is an error.
+
+# 3. Link box
