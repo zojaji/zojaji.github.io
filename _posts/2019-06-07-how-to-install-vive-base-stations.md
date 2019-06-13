@@ -35,7 +35,8 @@ Think and decide about your play area.
   * Room-scale: you can move within an area.
     * Minimum area: 2 * 1.5 $$ m^2 $$
     * Maximum area: 6 * 6 $$ m^2 $$
-<br />The base stations should be installed on top of your head for acurate tracking.
+    
+    The base stations should be installed on top of your head for acurate tracking.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.
     
