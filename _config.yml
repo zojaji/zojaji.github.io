@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Sahba Zojaji"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo-500.jpg"
   bio    : "Artificial intelligence researcher at KTH-Royal Institute of Technology working on artificial systems with soft-skills."
   links:
     - label: "Website"
