@@ -16,7 +16,7 @@
 title: Virtual Future
 email: zojaji@kth.se
 description: >- # this means to ignore newlines until "baseurl:"
-  The future of human-machine interaction is being now. Let's built it carefully by paying attention to all aspects from technical to ethical.
+  The future of human-machine interaction is being built now. Let's build it carefully by paying attention to all aspects from technical to ethical.
 twitter_username: s_zojaji
 github_username: zojaji
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sahba Zojaji"
   avatar : "/assets/images/bio-photo-500.jpg"
-  bio    : "Artificial intelligence researcher at KTH-Royal Institute of Technology working on artificial systems with soft-skills."
+  bio    : "Artificial intelligence researcher at KTH-Royal Institute of Technology working on artificial systems with social awareness."
   links:
     - label: "KTH profile"
       icon: "fas fa-fw fa-link"
