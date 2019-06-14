@@ -65,6 +65,7 @@ Now, it is time to bring your HTC Vive headset. Just plug its cable into the lin
 The final step is to install the controllers. You can find two wireless controllers and their power adapters in your HTC Vive package. Turn the controllers on by pressing and holding the _system button_ until hearing a beep. Once the controllers are turned on, their status light is blue for the first time. Then, you should pair them with the headset by just pressing and holding the _system button_ and _menu button_ at the same time. The status light turns green when the controllers are paired.  
 Use the power adapters only when you need to charge the controllers.
 <br />
+<br />
 <hr>
 # Conclusion
 This post gave you simple and straightforward guides about how to setup your HTC Vive Pro. After setting up the hardware, you should simply calibrate your hardware and setup the room scales, using _SteamVR Room Setup_ tool. Do not hesitate to contact me, if you have any question regarding this post or calibrating your hardware.
