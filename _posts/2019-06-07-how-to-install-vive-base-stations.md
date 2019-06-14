@@ -43,7 +43,7 @@ Think and decide about your play area.
     * Move all furniture and other obstacles out of your play area.
   * Standing/Seated: you should only stand or sit down and play the game.
     *  no minimum size requirement.   
-
+{: style="text-align: justify;"}
 ## The status light
 After installing the base stations and plugging them to a power outlet, you can find a status light on both base stations which shows:
 {: style="text-align: justify;"}
