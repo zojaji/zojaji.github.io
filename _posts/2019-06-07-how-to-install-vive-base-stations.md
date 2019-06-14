@@ -49,21 +49,22 @@ After installing the base stations and plugging them to a power outlet, you can 
   * White or green: in normal mode.
   * Blue or blinking blue: when waiting to stabilize (if it remains in this state, check if it is mounted securely or on a surface that's not prone to vibration).
   * Blinking red: when there is an error.
-
+{: style="text-align: justify;"}
 # 3. Link box
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/linkbox-2-300.jpg){: .align-right}
 You can find the link box and its components (1 USB3 cable, 1 Display-port cable, and a power adapter) in the HTC Vive Pro package. Follow these steps to connect the link box to your PC.
   * Connect one side of the USB3 cable (L1) to the link box and the other side to a USB3 port of your PC.
   * Connect the Display-port cable (L2) to the link box and to __the same graphics card__ that is connected to your __monitor__.
   * Connect the power cable (L3) to the link box and the adapter to a power outlet.
-
+{: style="text-align: justify;"}
 # 4. Headset
 Now, it is time to bring your HTC Vive headset. Just plug its cable into the link box and press the power button on the link box. Then, wait for Windows to install the drivers.  
-
+{: style="text-align: justify;"}
 # 5. Controllers
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/controllers-2-300.jpg){: .align-left}
 The final step is to install the controllers. You can find two wireless controllers and their power adapters in your HTC Vive package. Turn the controllers on by pressing and holding the _system button_ until hearing a beep. Once the controllers are turned on, their status light is blue for the first time. Then, you should pair them with the headset by just pressing and holding the _system button_ and _menu button_ at the same time. The status light turns green when the controllers are paired.  
 Use the power adapters only when you need to charge the controllers.
+{: style="text-align: justify;"}
 <br />
 <br />
 <hr>
