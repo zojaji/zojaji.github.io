@@ -1,7 +1,7 @@
 ---
 title: "How to Setup HTC VIVE Pro"
 classes: wide
-date: 2019-06-07T17:00:00-05:00
+date: 2019-06-14T14:00:00-05:00
 categories:
   - Howtos
 tags:
@@ -15,7 +15,7 @@ tags:
   - headset
   - controllers
 ---
-Immersing into the virtual world is exciting and mysterious. However, before diving in this fantastic world, you need to prepare your equipment and install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality (VR) hardware based on HTC-Vive-Pro. 
+Immersing into the virtual world is exciting and mysterious. However, before diving into this fantastic world, you need to prepare your equipment and install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality (VR) hardware based on HTC-Vive-Pro. 
 {: style="text-align: justify;"}
 # 1. Download & install ViveProSetup.exe
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/viveprosetup-300.png){: .align-left}
@@ -64,3 +64,5 @@ Now, it is time to bring your HTC Vive headset. Just plug its cable into the lin
 The final step is to install the controllers. You can find two wireless controllers and their power adapters in your HTC Vive package. Turn the controllers on by pressing and holding the _system button_ until hearing a beep. Once the controllers are turned on, their status light is blue for the first time. Then, you should pair them with the headset by just pressing and holding the _system button_ and _menu button_ at the same time. The status light turns green when the controllers are paired.  
 Use the power adapters only when you need to charge the controllers.
 
+# Conclusion
+This post gave you simple and straightforward guides about how to setup your HTC Vive Pro. After setting up the hardware, you should simply calibrate your hardware and setup the room scales, using _SteamVR Room Setup_ tool. Do not hesitate to contact me, if you have any question regarding this post or calibrating your hardware.
