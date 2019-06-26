@@ -95,6 +95,10 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+      comments:
+        provider: "disqus"
+        disqus:
+          shortname: "sahba"
       share: true
       related: true
   # _pages
