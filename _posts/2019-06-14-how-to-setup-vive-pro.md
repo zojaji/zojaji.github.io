@@ -71,25 +71,3 @@ Use the power adapters only when you need to charge the controllers.
 <hr>
 # Conclusion
 This post gave you simple and straightforward guides about how to setup your HTC Vive Pro. After setting up the hardware, you should simply calibrate your hardware and setup the room scales, using _SteamVR Room Setup_ tool. Do not hesitate to contact me, if you have any question regarding this post or calibrating your hardware.
-
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = '<?php echo get_permalink(); ?>';
- this.page.identifier = '<?php echo dsq_identifier_for_post($post); ?>';
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://sahba.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
