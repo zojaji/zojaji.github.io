@@ -14,6 +14,28 @@ tags:
   - link box
   - headset
   - controllers
+  
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = '<?php echo get_permalink(); ?>';
+ this.page.identifier = '<?php echo dsq_identifier_for_post($post); ?>';
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://sahba.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 ---
 Immersing into the virtual world is exciting and mysterious. However, before diving into this fantastic world, you need to prepare your equipment and install the virtual reality hardware. This post will give you straightforward guidelines to set-up virtual reality (VR) hardware based on HTC-Vive-Pro. 
 {: style="text-align: justify;"}
