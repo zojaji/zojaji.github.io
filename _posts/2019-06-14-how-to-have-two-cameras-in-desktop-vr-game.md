@@ -34,4 +34,6 @@ After adding a second camera (considered as the desktop camera) to your game sce
 <br />
 <hr>
 # Conclusion
+{: style="text-align: justify;"}
 This article tried to configure two cameras inside a Unity game in order to have two different camera perspectives at the same time, a VR head-mounted device camera perspective and a second camera perspective on the user's desktop.
+{: style="text-align: justify;"}
