@@ -9,7 +9,6 @@ categories:
 tags:
   - unity
   - game development
-  - HTC VIVE Pro
   - virtual reality
   - VR
   - two cameras
