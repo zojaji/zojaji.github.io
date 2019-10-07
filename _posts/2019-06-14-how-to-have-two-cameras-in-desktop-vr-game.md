@@ -1,5 +1,5 @@
 ---
-title: "How To Have Two Cameras In A VR-Desktop Game Development Using Unity?"
+title: "Having two cameras in a VR-Desktop Unity game development"
 classes: wide
 date: 2019-10-07T12:00:00-05:00
 categories:
@@ -13,11 +13,11 @@ tags:
   - two cameras
   - two players
 ---
-Sometimes it is necessary to have two cameras in a Virtual Reality (VR) multiplayer game development. One is connected to the VR-Camera rig and the otherone is connected to the desktop main display. Unity provides an easy solution to handle this situation. 
+Sometimes it is necessary to have two cameras in a Virtual Reality (VR) multiplayer game development. One is connected to the VR-Camera rig and the otherone is connected to the desktop main display. Unity provides an easy solution to this end. 
 {: style="text-align: justify;"}
 <hr>
 # 1. Check player settings
-"Virtual Reality Supported" option in the player settings must be checked. Player settings in Unity is accessible under the following menu: 
+_"Virtual Reality Supported"_ option in the _player settings_ must be __checked__. Player settings in Unity is accessible under the following menu: 
 <br />
 "Edit -> Project settings -> Player"
 
@@ -26,6 +26,3 @@ After adding a second camera (considered as the desktop camera) to your game sce
 {: style="text-align: justify;"}
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/mainDisplay.png){: .align-right}
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/VR.png){: .align-left}
-# 3. VR camera rig settings
-. 
-{: style="text-align: justify;"}
