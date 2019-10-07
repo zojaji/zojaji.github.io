@@ -29,4 +29,4 @@ After adding a second camera (considered as the desktop camera) to your game sce
 
 
 # Conclusion
-After applying these post settings to a Unity multiplayer game, players will see a game scene from two different camera perspectives, the VR head-mounted device camera perspective and the other one on the desktop from the second camera perspective.
+We tried to configure two cameras inside a Unity game in order to have two different camera perspectives at the same time, a VR head-mounted device camera perspective and a second camera perspective on the user's desktop.
