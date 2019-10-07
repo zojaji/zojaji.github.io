@@ -4,6 +4,8 @@ classes: wide
 date: 2019-10-07T12:00:00-05:00
 categories:
   - Howtos
+  - Development
+  - Unity
 tags:
   - unity
   - game development
