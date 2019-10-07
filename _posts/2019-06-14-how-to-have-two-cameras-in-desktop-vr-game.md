@@ -24,14 +24,11 @@ _"Virtual Reality Supported"_ option in the _player settings_ must be __checked_
 "Edit -> Project settings -> Player"
 
 # 2. Cameras settings
-After adding a second camera (considered as the desktop camera) to your game scene, change its __"Target Eye"__ property to __"None (Main display)"__. Also, it is necessary to choose a __"Depth"__ greater than the VR camera rig depth.
-{: style="text-align: justify;"}
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/mainDisplay.png){: .align-right}
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/VR.png){: .align-left}
-asdadadad
+After adding a second camera (considered as the desktop camera) to your game scene, change its __"Target Eye"__ property to __"None (Main display)"__. Also, it is necessary to choose a __"Depth"__ greater than the VR camera rig depth.
 {: style="text-align: justify;"}
 
-<br />
 <hr>
 # Conclusion
 {: style="text-align: justify;"}
