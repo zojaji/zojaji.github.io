@@ -1,5 +1,5 @@
 ---
-title: "How to Setup HTC VIVE Pro"
+title: "How to setup HTC VIVE Pro"
 classes: wide
 date: 2019-06-14T14:00:00-05:00
 categories:
