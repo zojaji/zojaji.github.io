@@ -12,7 +12,7 @@ tags:
   - virtual reality
   - VR
   - two cameras
-  - two players
+  - multiplayer games
 ---
 Sometimes it is necessary to have two cameras in a Virtual Reality (VR) multiplayer game development. One is connected to the VR-Camera rig and the other one is connected to the desktop main display. Unity provides an easy solution to this end. 
 {: style="text-align: justify;"}
