@@ -28,8 +28,8 @@ After adding a second camera (considered as the desktop camera) to your game sce
 {: style="text-align: justify;"}
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/mainDisplay.png){: .align-right}
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/VR.png){: .align-left}
-
- {: style="text-align: justify;"}
+asdadadad
+{: style="text-align: justify;"}
 
 <br />
 <hr>
