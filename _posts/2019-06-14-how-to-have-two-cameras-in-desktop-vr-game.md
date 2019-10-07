@@ -28,7 +28,5 @@ After adding a second camera (considered as the desktop camera) to your game sce
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/VR.png){: .align-left}
 
 
-<br />
-<hr>
 # Conclusion
 After applying these post settings to a Unity multiplayer game, players will see a game scene from two different camera perspectives, the VR head-mounted device camera perspective and the other one on the desktop from the second camera perspective.
