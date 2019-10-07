@@ -1,5 +1,5 @@
 ---
-title: "Having two cameras in a VR-Desktop Unity game development"
+title: "Having two cameras in a VR Unity game development"
 classes: wide
 date: 2019-10-07T12:00:00-05:00
 categories:
